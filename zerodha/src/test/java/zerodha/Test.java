@@ -4,6 +4,7 @@ public class Test {
 
 public void gittest() {
 	System.out.println("hello");
+	System.out.println("hello1");
 }
 
 }
